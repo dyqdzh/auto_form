@@ -12,6 +12,3 @@
 4. 运行get_data.py程序，在5s内返回到网页，并确保光标在第一个空格处
 5. 5s后，程序开始自动执行
 
-## 信息
-网址：https://ecomp.mofcom.gov.cn/loginCorp.html
-
